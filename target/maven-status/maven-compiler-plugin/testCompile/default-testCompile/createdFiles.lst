@@ -1,0 +1,6 @@
+org\apche\restaurant\jparepository\RestaurantJpaRepositoryTest.class
+org\apche\restaurant\controller\RestaurantControllerTest.class
+org\apche\restaurant\AbstractTest.class
+org\apche\restaurant\service\RestaurantServiceTest.class
+org\apche\restaurant\controller\AbstractControllerTest.class
+org\apche\restaurant\service\PizzaServiceTest.class
